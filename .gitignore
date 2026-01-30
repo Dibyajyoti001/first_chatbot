@@ -1,0 +1,19 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+.env.local
+
+# Python Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data & Database (Generated locally)
+data/
+chroma/
+*.pdf
+*.txt
+*.png
+*.jpg
+
+# OS Junk
+.DS_Store
