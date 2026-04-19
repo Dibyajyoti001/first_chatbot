@@ -1,8 +1,8 @@
 
-```markdown
-# 🤖 First Chatbot | Cross-Model RAG Agent System
 
-> **Production-Ready Generative AI Chatbot with Advanced RAG + Multi-Agent Reasoning**  
+🤖 First Chatbot | Cross-Model RAG Agent System
+
+> **Generative AI Chatbot with Advanced RAG + Multi-Agent Reasoning**  
 > A low-latency, document-grounded QA system built with cross-model retrieval and intelligent agent graphs for accurate, scalable conversations.
 
 ---
@@ -37,6 +37,7 @@ graph TD
     E
     F
     end
+
 ```
 
 **Core Components:**
@@ -89,15 +90,6 @@ python app.py
 ```bash
 python frontend.py
 ```
-
-### Alternative Version
-
-```bash
-python new_app.py
-```
-
----
-
 ## 📤 Output & Capabilities
 
 - Real-time chat interface with source citations
